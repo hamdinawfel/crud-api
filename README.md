@@ -9,8 +9,9 @@ Node and Express for a server
 MongoDB for the database
 
 # Configuration
-Make sure to add your own MONGOURI from your mLab database,
-or add your mongo database name If you are running MongoDB locally in ```config/keys.js```
+Make sure to add your own MONGOURI from your mLab database ```config/keys.js```,
+
+If you are running MongoDB locally add your data base name in ```config/keys.js```.
 
 ```
 module.exports = {

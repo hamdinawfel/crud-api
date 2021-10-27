@@ -1,5 +1,5 @@
-# auth-api
-Authentication Api boilerplate with Node.js, Express.js, Mongodb  and JWT
+# CRUD-api
+CRUD Api boilerplate with Node.js, Express.js, Mongodb  and JWT
 
 
 This project uses the following technologies:
